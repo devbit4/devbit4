@@ -8,10 +8,9 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 3. (2018.3~2020.3) a member of Global Coding Volunteers.
 4. (2016.3~2020.3) studied Computer Education in university.
 
-### ❤️ What I like..
-* Self-development 😸
+### ❤️ What I like.. 
 * Swimming 🏊
-* Reading 📖
+* Reading for self-development📖
 * Learning languages 🌐
 
 ### 🖥️ Languages and Tools
