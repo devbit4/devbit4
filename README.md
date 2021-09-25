@@ -1,4 +1,4 @@
-### 🙋 Hi there! I'm bit4.
+## 🙋 Hi there! I'm bit4.
 
 Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea. 
 
