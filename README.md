@@ -9,17 +9,15 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 4. (2021.9~) I'm currently learning React
 
 ### ❤️ What I like..
-1. Self-development 😸
-2. Swimming 🏊
-3. Reading 📖
-4. Learning languages 🌐
+* Self-development 😸
+* Swimming 🏊
+* Reading 📖
+* Learning languages 🌐
 
 ### 🖥️ Languages and Tools
+---
 
+Ask me anything:)
 
-Ask me anything:) 
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@devbit4)](https://velog.io/@devbit4)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:devbit4gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@devbit4)](https://velog.io/@devbit4) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:devbit4gmail.com) 
 
