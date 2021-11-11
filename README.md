@@ -9,7 +9,7 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=devbit4" height="160">
 
 ### 🎍 Experience & Education
-1. (2021.9~) I'm currently learning React.
+1. (2021.9~) I'm currently focused on React.
 2. (2020.7 ~ 2021.9) I worked at an Elementary school.
 3. (2018.3~2020.3) I worked as a volunteer for Global Software Club.
 4. (2016.3~2020.3) I majored in Computer Education in university.
