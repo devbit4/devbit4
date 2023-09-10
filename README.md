@@ -30,5 +30,5 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 ---
 > Ask me anything:) 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@devbit4)](https://velog.io/@devbit4) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devbit4gmail.com)](mailto:devbit4gmail.com) 
+<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@devbit4)](https://velog.io/@devbit4) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devbit4gmail.com)](mailto:devbit4gmail.com) -->
 
