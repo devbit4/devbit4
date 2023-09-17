@@ -3,12 +3,12 @@
 Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea. 
 * I'm a goal-oriented person. 👩‍💻
   - I am motivated by challenges and goals.
-* I'm quick learner. 🏃‍ 
-  - I enjoy learning new things and I am easily blending into different types of environment.
+* I'm a quick learner. 🏃‍ 
+  - I enjoy learning new things and I am blending into different types of environment easily.
 * I build good relationships with people. 👫
   - They always ask for me and I have a lot of work experience with others.
-* I'm very organized. ✍️
-  - I'm good at time-management and making a plan. 
+* I'm an organized peson. ✍️
+  - I'm good at time management and making a plan. 
 
 ### 🖥️ Skills..
 <!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
@@ -17,10 +17,10 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 
 
 ### 🎍 Experience & Education
-* (2021.2~) I'm currently focused on learning Typescript.
-* (2020.7 ~ 2021.9) I worked at an Elementary school.
+* (2022.3~) I'm working as a front-end developer.
+* (2020.7 ~ 2021.9) I worked at an elementary school.
 * (2018.3~2020.3) I worked as a volunteer for Global Software Club.
-* (2016.3~2020.3) I majored in Computer Education in university.
+* (2016.3~2020.3) I majored in Computer Education.
 
 ### ❤️ What I like.. 
 * Swimming 🏊
