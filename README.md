@@ -22,7 +22,7 @@ Hi, I'm bit4, a passionate front-end developer. I'm living in Seoul, Korea.
 * (2018.3~2020.3) I worked as a volunteer for Global Software Club.
 * (2016.3~2020.3) I majored in Computer Education.
 
-### ❤️ What I Like.. 
+### ❤️ What I Like
 * Swimming 🏊
 * Reading for self-development 📖
 * Learning languages 🌐
